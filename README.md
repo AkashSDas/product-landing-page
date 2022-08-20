@@ -1,6 +1,6 @@
 # product-landing-page
 
-[🌐 Live Preview](https://street-style-landing-page-neon.vercel.app/)
+[🌐 Live Preview](https://product-landing-page-ashy.vercel.app/)
 
 - ✅ CSS - complete layout, position
 - ✅ Responsiveness (for all devices)
